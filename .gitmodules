@@ -1,0 +1,9 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:guilhermebatalheiro/nvim_rc.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:guilhermebatalheiro/tmux_rc.git
+[submodule "bin"]
+	path = bin
+	url = git@github.com:guilhermebatalheiro/bin_rc.git
